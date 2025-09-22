@@ -1,5 +1,5 @@
 <h1 align="center">
-canoezequiel7k-sys
+Ezequiel Ariel Cano
 
   
   <h2 align="center">
