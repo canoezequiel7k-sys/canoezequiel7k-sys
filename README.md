@@ -10,7 +10,7 @@ Ezequiel Ariel Cano
 ## Snake game with my contributions
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
-## Tecnológica y herramientas:
+## Tecnológica y herramientas que manejo(Actualmente):
 
 ### Lenguajes
 
