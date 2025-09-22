@@ -12,7 +12,7 @@ canoezequiel7k-sys
 
 ## My Tech Stack and Tools
 
-### Programming Languages
+### Lenguajes
 
 <p>
   
@@ -31,7 +31,7 @@ canoezequiel7k-sys
 
 
 
-### Frameworks and Libraries
+### Frameworks
 
 <p>
 
@@ -57,7 +57,7 @@ canoezequiel7k-sys
 
 
 
-### Base de Datos
+### Bases de Datos
 
 <p>
 	
