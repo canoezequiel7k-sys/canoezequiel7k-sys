@@ -7,7 +7,7 @@ Ezequiel Ariel Cano
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Bienvenidos+a+mi+pagina+de+GitHub!;Yo+soy+canoezequiel7k-sys.;Soy+un+estudiante+de+Programacion!;Soy+de+Argentina+-+Buenos+Aires.)](https://git.io/typing-svg)
 
 
-## Snake game with my contributions
+## Snake game con unas contribuciones
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 ## Tecnológica y herramientas que manejo(Actualmente):
