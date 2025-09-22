@@ -26,6 +26,8 @@ canoezequiel7k-sys
 <img src="./icons/Dart-Dark.svg" width="48">
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <img src="./icons/C.svg" width="48">
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/bc5730e3-f274-411f-9b5f-9b8fceabedb0" />
+
 
 
 
