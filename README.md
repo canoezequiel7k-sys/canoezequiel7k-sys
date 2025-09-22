@@ -35,7 +35,7 @@ canoezequiel7k-sys
 
 <p>
 
-![aframe-logo_48x48](https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg)
+<img width ='48px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg'> </a>
 ![aframe-logo_48x48](https://user-images.githubusercontent.com/76852813/172721192-a712983a-47d4-41a5-a1ed-abf4113cff93.png)
 ![icons8-bootstrap](https://user-images.githubusercontent.com/76852813/172721798-883b2b27-ef7b-42d4-a492-6c6cb6cb4ffe.svg)
 ![1696888_48x48](https://user-images.githubusercontent.com/76852813/172723432-50ba3455-48c4-4afd-8326-1ddf54c39833.png)
