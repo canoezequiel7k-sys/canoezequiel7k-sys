@@ -4,7 +4,7 @@ canoezequiel7k-sys
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+canoezequiel7k-sys.;I'm+a+student+in+California.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+canoezequiel7k-sys.;I'm+a+student+in+Argentina.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 
 ## Contribution Snake 
