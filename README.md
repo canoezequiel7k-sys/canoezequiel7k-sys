@@ -4,7 +4,7 @@ canoezequiel7k-sys
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Bienvenidos+a+mi+pagina+de+GitHub!;Yo+soy+canoezequiel7k-sys.;Soy+un+estudiante+de+Programacion!;Soy+mas+argentino+que+el+mate.;Lo+Lo+de+abajo+son+las+herramientas+que+utilizo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Bienvenidos+a+mi+pagina+de+GitHub!;Yo+soy+canoezequiel7k-sys.;Soy+un+estudiante+de+Programacion!;Soy+mas+argentino+que+el+mate.;Lpo+Lo+de+abajo+son+las+herramientas+que+utilizo!)](https://git.io/typing-svg)
 
 
 ## Snake game with my contributions
