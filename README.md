@@ -4,7 +4,7 @@ Ezequiel Ariel Cano
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Bienvenidos+a+mi+pagina+de+GitHub!;Yo+soy+canoezequiel7k-sys.;Soy+un+estudiante+de+Programacion!;Soy+de+Argentina+-+Buenos+Aires.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Bienvenidos+a+mi+pagina+de+GitHub!;Yo+soy+canoezequiel7k-sys.;Estudiante+de+Programacion;Y+Futuro+Licenciado+en+Sistemas;Soy+de+Argentina+-+Buenos+Aires.)](https://git.io/typing-svg)
 
 
 ## Snake game con unas contribuciones
