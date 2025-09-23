@@ -24,6 +24,9 @@ Ezequiel Ariel Cano
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@exek7k" />
 </a>
   </p>
+<a href="mailto:canoezequiel63@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@exek7k" />
+</a>
 
 
 
