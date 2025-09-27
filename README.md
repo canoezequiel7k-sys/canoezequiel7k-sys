@@ -12,7 +12,7 @@ Ezequiel Ariel Cano
   <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@exek7k" />
 </a>
 
-<a href="https://www.instagram.com/arielgonzalez7k/" target="_blank">
+<a href="https://www.instagram.com/canoezequiel7k/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@exek7k" />
 </a>
 
