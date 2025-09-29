@@ -34,7 +34,7 @@ Ezequiel Cano
 ## Tecnológica y herramientas que manejo:
 
 
-### Lenguajes
+### Lenguajes:
 
 <p>
   
