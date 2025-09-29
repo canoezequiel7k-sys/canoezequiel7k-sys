@@ -53,7 +53,7 @@ Ezequiel Cano
 
 
 
-### Frameworks
+### Frameworks:
 
 <p>
 
@@ -63,7 +63,7 @@ Ezequiel Cano
 
 
 
-### Software
+### Software:
 
 <p>
 
@@ -80,7 +80,7 @@ Ezequiel Cano
 
 
 
-### Bases de Datos
+### Bases de Datos:
 
 <p>
 	
