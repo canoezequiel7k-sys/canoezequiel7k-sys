@@ -17,7 +17,7 @@ Ezequiel Cano
 </a>
 
 <a href="https://www.linkedin.com/in/canoezequiel7k-sys/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@exek7k"/>
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@canoezequiel7k"/>
 </a>
 
 <a href="mailto:canoezequiel63@gmail.com" target="_blank">
