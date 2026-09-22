@@ -64,110 +64,53 @@ Actualmente continúo desarrollando proyectos personales y académicos para segu
 
 ---
 
-## 📱 Mobile & Frameworks
+📱 Mobile & Frameworks
 
 <p align="left">
 
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="Android Studio" />
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JetpackCompose-Light.svg" alt="Jetpack Compose" />
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/KMP-Light.svg" alt="Kotlin Multiplatform" />
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" alt="Flutter" />
+<img width="48px" src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /> <img width="48px" src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" /> <img width="48px" src="https://skillicons.dev/icons?i=compose" alt="Jetpack Compose" /> <img width="48px" src="https://skillicons.dev/icons?i=kmp" alt="Kotlin Multiplatform" /> <img width="48px" src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
 
 </p>
 
-### Tecnologías Mobile
-
-* Kotlin
-* Android
-* Jetpack Compose
-* Kotlin Multiplatform
-* Flutter
-* Dart
-
----
-
-## 🌐 Web & Backend
+Tecnologías Mobile
+Kotlin
+Android
+Jetpack Compose
+Kotlin Multiplatform
+Flutter
+Dart
+🌐 Web & Backend
 
 <p align="left">
 
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" />
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" />
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django" />
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg" alt="Flask" />
+<img width="48px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /> <img width="48px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /> <img width="48px" src="https://skillicons.dev/icons?i=django" alt="Django" /> <img width="48px" src="https://skillicons.dev/icons?i=flask" alt="Flask" />
 
 </p>
 
-### Tecnologías Web
-
-* HTML
-* CSS
-* JavaScript
-* TypeScript
-* Node.js
-* Django
-* Flask
-
----
-
-## 🗄️ Bases de Datos
+🗄️ Bases de Datos
 
 <p align="left">
 
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" />
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" />
+<img width="48px" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" /> <img width="48px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 
 </p>
 
-* PostgreSQL
-* MySQL
-
----
-
-## ⚙️ Herramientas y Entornos
+⚙️ Herramientas y Entornos
 
 <p align="left">
 
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" />
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" alt="Ubuntu" />
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" />
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" />
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" />
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="Android Studio" />
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="IntelliJ IDEA" />
-<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" />
+<img width="48px" src="https://skillicons.dev/icons?i=linux" alt="Linux" /> <img width="48px" src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /> <img width="48px" src="https://skillicons.dev/icons?i=docker" alt="Docker" /> <img width="48px" src="https://skillicons.dev/icons?i=git" alt="Git" /> <img width="48px" src="https://skillicons.dev/icons?i=github" alt="GitHub" /> <img width="48px" src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" /> <img width="48px" src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /> <img width="48px" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
 
 </p>
 
-### Herramientas
+🚀 Actualmente
+📱 Enfocado en desarrollo de aplicaciones Mobile
+🟣 Desarrollando con Kotlin y Jetpack Compose
+🔄 Explorando Kotlin Multiplatform
+🦋 Trabajando con Flutter y Dart
+🌐 Ampliando conocimientos en TypeScript y Node.js
+🗄️ Trabajando con PostgreSQL
+🐳 Utilizando Docker y entornos Linux
+📚 Continuando mi formación en Licenciatura en Sistemas
 
-* Git
-* GitHub
-* Docker
-* Linux
-* Ubuntu
-* Android Studio
-* IntelliJ IDEA
-* Visual Studio Code
-* PyCharm
-
----
-
-## 🚀 Actualmente
-
-* 📱 Enfocado en desarrollo de aplicaciones **Mobile**
-* 🟣 Desarrollando con **Kotlin y Jetpack Compose**
-* 🔄 Explorando **Kotlin Multiplatform**
-* 🦋 Trabajando con **Flutter y Dart**
-* 🌐 Ampliando conocimientos en **TypeScript y Node.js**
-* 🗄️ Trabajando con **PostgreSQL**
-* 🐳 Utilizando **Docker** y entornos Linux
-* 📚 Continuando mi formación en **Licenciatura en Sistemas**
-
----
-
-<p align="center">
-
-### Gracias por visitar mi perfil 👋
-
-</p>
 
