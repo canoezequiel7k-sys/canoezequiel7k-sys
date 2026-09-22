@@ -60,6 +60,7 @@ Ezequiel Cano
 <img width='48px' src='https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white'> </a>
 <img width='48px' src='https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white'> </a>
 <img width='48px' src='https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg'> </a>
+<img width='48px' src='https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white'> </a>
 
 </p>
 
