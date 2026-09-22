@@ -1,94 +1,173 @@
 <h1 align="center">
-Ezequiel Cano
+  Ezequiel Cano
+</h1>
 
-  
-  <h2 align="center">
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3600&center=true&width=450&lines=Bienvenidos+a+mi+pagina+de+GitHub!;Yo+soy+canoezequiel7k-sys.;Estudiante+de+Programación;Y+futuro+Licenciado+en+Sistemas+!;Soy+de+Argentina+-+Buenos+Aires.)](https://git.io/typing-svg)
+<h2 align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3600\&center=true\&width=550\&lines=Bienvenidos+a+mi+pagina+de+GitHub!;Soy+canoezequiel7k-sys.;Técnico+en+Programación+\(UTN\);Estudiante+de+Lic.+en+Sistemas+\(UNLa\);Desarrollo+de+aplicaciones+Mobile;Soy+de+Argentina+-+Buenos+Aires.)](https://git.io/typing-svg)
+
+</h2>
 
 <p align="center">
+
 <a href="https://www.youtube.com/@exek7k" target="_blank">
   <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@exek7k" />
 </a>
 
-<a href="https://www.instagram.com/arielgonzalez7k/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@arielgonzalez7k" />
-</a>
-
 <a href="https://www.linkedin.com/in/canoezequiel7k-sys/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@canoezequiel7k"/>
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@canoezequiel7k-sys" />
 </a>
 
 <a href="mailto:canoezequiel63@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@exek7k" />
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-  </p>
 
+</p>
 
+---
 
+## 👨‍💻 Sobre mí
 
-## Snake game con unas contribuciones:
+Soy **Técnico en Programación (UTN)** y actualmente estudio la **Licenciatura en Sistemas en la UNLa**.
+
+Me enfoco principalmente en el **desarrollo de aplicaciones Mobile**, trabajando con tecnologías como **Kotlin, Jetpack Compose, Kotlin Multiplatform, Flutter y Dart**.
+
+También tengo experiencia y conocimientos en desarrollo web, backend, bases de datos, Linux, Docker y herramientas de desarrollo.
+
+Actualmente continúo desarrollando proyectos personales y académicos para seguir fortaleciendo mis conocimientos y adquirir experiencia en el desarrollo de software.
+
+---
+
+## 🐍 Snake Game
+
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
-## Tecnológica y herramientas que manejo
+---
 
+# 🛠️ Tecnologías y herramientas
 
-### Lenguajes;
+## 💻 Lenguajes
 
-<p>
-  
+<p align="left">
 
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" alt="Kotlin" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" alt="Dart" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" />
 
-![icons8-python](https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg)
-![icons8-java](https://user-images.githubusercontent.com/76852813/172716937-4574740e-2d2e-4326-af3b-4a42bad058c1.svg)
-<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-![icons8-javascript](https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg)
-<img width ='48px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg'> </a>
-<img width ='48px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg'> </a>
+</p>
 
+---
 
+## 📱 Mobile & Frameworks
 
+<p align="left">
 
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="Android Studio" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JetpackCompose-Light.svg" alt="Jetpack Compose" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/KMP-Light.svg" alt="Kotlin Multiplatform" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" alt="Flutter" />
 
+</p>
 
-### Frameworks;
+### Tecnologías Mobile
 
-<p>
+* Kotlin
+* Android
+* Jetpack Compose
+* Kotlin Multiplatform
+* Flutter
+* Dart
 
-<img width ='48px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg'> </a>
-<img width ='48px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg'> </a>
-<img width ='48px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg'> </a>
+---
 
+## 🌐 Web & Backend
 
+<p align="left">
 
-### Software;
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg" alt="Flask" />
 
-<p>
+</p>
 
-<img width ='48px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg'> </a>
-<img width ='48px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg'> </a>
-<img width ='48px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg'> </a>
-![icons8-git](https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg)
-![icons8-github](https://user-images.githubusercontent.com/76852813/172732353-d8b662eb-8f1c-453a-82f4-00132b440aaa.svg)
-![icons8-pycharm](https://user-images.githubusercontent.com/76852813/172722267-f6f30163-ec39-4d98-a106-7c91394f4c44.svg)
-![icons8-visual-studio-code-2019](https://user-images.githubusercontent.com/76852813/172722742-4c84455a-830a-4f69-8dcd-ac9437e52251.svg)
+### Tecnologías Web
 
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+* Node.js
+* Django
+* Flask
 
+---
 
+## 🗄️ Bases de Datos
 
+<p align="left">
 
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" />
 
-### Bases de Datos;
+</p>
 
-<p>
-	
-<img width ='48px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg'> </a>
-<img width ='48px' src ='https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg'> </a>
+* PostgreSQL
+* MySQL
 
+---
 
+## ⚙️ Herramientas y Entornos
 
+<p align="left">
 
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" alt="Ubuntu" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="Android Studio" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="IntelliJ IDEA" />
+<img width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" />
 
-	
+</p>
+
+### Herramientas
+
+* Git
+* GitHub
+* Docker
+* Linux
+* Ubuntu
+* Android Studio
+* IntelliJ IDEA
+* Visual Studio Code
+* PyCharm
+
+---
+
+## 🚀 Actualmente
+
+* 📱 Enfocado en desarrollo de aplicaciones **Mobile**
+* 🟣 Desarrollando con **Kotlin y Jetpack Compose**
+* 🔄 Explorando **Kotlin Multiplatform**
+* 🦋 Trabajando con **Flutter y Dart**
+* 🌐 Ampliando conocimientos en **TypeScript y Node.js**
+* 🗄️ Trabajando con **PostgreSQL**
+* 🐳 Utilizando **Docker** y entornos Linux
+* 📚 Continuando mi formación en **Licenciatura en Sistemas**
+
+---
+
+<p align="center">
+
+### Gracias por visitar mi perfil 👋
+
+</p>
+
