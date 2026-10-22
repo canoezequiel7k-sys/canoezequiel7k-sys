@@ -24,6 +24,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/canoezequiel7k-sys/canoezequiel7k-sys/output/github-contribution-grid-snake.svg" alt="Animación oscura de la serpiente recorriendo mi gráfico de contribuciones de GitHub" />
+</p>
+
 <img align="right" src="./devcard.png" width="280" alt="Tarjeta de presentación de Ezequiel Cano" />
 
 ## Desarrollador mobile y frontend
@@ -128,12 +132,6 @@ Aplicación de escritorio que detecta cuando los ojos permanecen cerrados, activ
 ## 🌱 Mi camino de aprendizaje
 
 Aprendo construyendo proyectos, explorando nuevas tecnologías y mejorando cada iteración a partir del feedback. Me interesa fortalecer mis habilidades de desarrollo móvil y frontend, asumir nuevos desafíos y aportar a equipos que valoren la colaboración, la responsabilidad y la calidad del software.
-
-## 🐍 Mi actividad en GitHub
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/canoezequiel7k-sys/canoezequiel7k-sys/output/github-contribution-grid-snake.svg" alt="Animación de la serpiente recorriendo mi gráfico de contribuciones de GitHub" />
-</p>
 
 ## 🤝 Contacto
 
