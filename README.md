@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@exek7k" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://www.youtube.com/@exek7k" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@exek7k" />
   </a>
   <a href="https://www.linkedin.com/in/canoezequiel7k-sys/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -22,10 +22,6 @@
   <a href="mailto:canoezequiel73@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/canoezequiel7k-sys/canoezequiel7k-sys/output/github-contribution-grid-snake-dark.svg" alt="Animación oscura de la serpiente recorriendo mi gráfico de contribuciones de GitHub" />
 </p>
 
 <img align="right" src="./devcard.png" width="280" alt="Tarjeta de presentación de Ezequiel Cano" />
@@ -133,11 +129,12 @@ Aplicación de escritorio que detecta cuando los ojos permanecen cerrados, activ
 
 Aprendo construyendo proyectos, explorando nuevas tecnologías y mejorando cada iteración a partir del feedback. Me interesa fortalecer mis habilidades de desarrollo móvil y frontend, asumir nuevos desafíos y aportar a equipos que valoren la colaboración, la responsabilidad y la calidad del software.
 
-## 🤝 Contacto
+## 🐍 Mi actividad en GitHub
 
-<p>
-  <a href="mailto:canoezequiel73@gmail.com">canoezequiel73@gmail.com</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/canoezequiel7k-sys/canoezequiel7k-sys/output/github-contribution-grid-snake.svg" alt="Animación de la serpiente recorriendo mi gráfico de contribuciones de GitHub" />
 </p>
+
 
 <p>
   <img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Animación de programación" width="180" />
