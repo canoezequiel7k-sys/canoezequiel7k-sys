@@ -135,6 +135,11 @@ Aprendo construyendo proyectos, explorando nuevas tecnologías y mejorando cada 
   <img src="https://raw.githubusercontent.com/canoezequiel7k-sys/canoezequiel7k-sys/output/github-contribution-grid-snake.svg" alt="Animación de la serpiente recorriendo mi gráfico de contribuciones de GitHub" />
 </p>
 
+## 🤝 Contacto
+
+<p>
+  <a href="mailto:canoezequiel73@gmail.com">canoezequiel73@gmail.com</a>
+</p>
 
 <p>
   <img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Animación de programación" width="180" />
