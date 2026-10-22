@@ -1,20 +1,11 @@
-# Hola, soy Ezequiel Cano 👋
+<h1 align="center">Hola, soy Ezequiel Cano 👋</h1>
 
-### Técnico en Programación · Estudiante de Sistemas · Desarrollador Mobile & Frontend
+<h3 align="center">Técnico en Programación · Estudiante de Sistemas · Desarrollador Mobile & Frontend</h3>
 
 <p align="center">
-  <a href="https://github.com/canoezequiel7k-sys">
-    <img src="https://img.shields.io/badge/GitHub-canoezequiel7k--sys-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/canoezequiel7k-sys/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/canoezequiel7k/">
-    <img src="https://img.shields.io/badge/Instagram-canoezequiel7k-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/canoezequiel7k">
-    <img src="https://img.shields.io/badge/X-canoezequiel7k-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
+  <a href="https://www.linkedin.com/in/canoezequiel7k-sys/">LinkedIn</a>
+  · <a href="https://www.instagram.com/canoezequiel7k/">Instagram</a>
+  · <a href="https://x.com/canoezequiel7k">X</a>
 </p>
 
 <img align="right" src="./devcard.png" width="280" alt="Tarjeta de presentación de Ezequiel Cano" />
@@ -29,6 +20,8 @@ Busco seguir creciendo como desarrollador, participar en proyectos reales y crea
 <br clear="right" />
 
 <p>
+  <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="Animación decorativa de programación" width="120" />
+  <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="Animación decorativa de programación" width="120" />
   <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="Animación decorativa de programación" width="120" />
   <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="Animación decorativa de programación" width="120" />
   <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="Animación decorativa de programación" width="120" />
@@ -121,16 +114,13 @@ Aplicación de escritorio que detecta cuando los ojos permanecen cerrados, activ
 
 Aprendo construyendo proyectos, explorando nuevas tecnologías y mejorando cada iteración a partir del feedback. Me interesa fortalecer mis habilidades de desarrollo móvil y frontend, asumir nuevos desafíos y aportar a equipos que valoren la colaboración, la responsabilidad y la calidad del software.
 
-## 🤝 Conectemos
+## 🤝 Contacto
 
-- [GitHub](https://github.com/canoezequiel7k-sys)
-- [LinkedIn](https://www.linkedin.com/in/canoezequiel7k-sys/)
-- [Instagram](https://www.instagram.com/canoezequiel7k/)
-- [X](https://x.com/canoezequiel7k)
+<p>
+  <a href="mailto:canoezequiel73@gmail.com">canoezequiel73@gmail.com</a>
+</p>
 
 <p>
   <img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Animación de programación" width="180" />
   <img src="https://media3.giphy.com/media/RgAl2ESJFnIQ0/giphy.gif" alt="Animación de Spock" width="180" />
 </p>
-
-*Por privacidad, no publico mi dirección de correo personal en este perfil.*
