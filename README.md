@@ -26,7 +26,6 @@ Busco seguir creciendo como desarrollador, participar en proyectos reales y crea
   <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="Animación decorativa de programación" width="120" />
   <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="Animación decorativa de programación" width="120" />
   <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="Animación decorativa de programación" width="120" />
-  <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="Animación decorativa de programación" width="120" />
 </p>
 
 ## 🧭 En qué estoy enfocado
