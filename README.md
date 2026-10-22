@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/canoezequiel7k-sys/canoezequiel7k-sys/output/github-contribution-grid-snake.svg" alt="Animación oscura de la serpiente recorriendo mi gráfico de contribuciones de GitHub" />
+  <img src="https://raw.githubusercontent.com/canoezequiel7k-sys/canoezequiel7k-sys/output/github-contribution-grid-snake-dark.svg" alt="Animación oscura de la serpiente recorriendo mi gráfico de contribuciones de GitHub" />
 </p>
 
 <img align="right" src="./devcard.png" width="280" alt="Tarjeta de presentación de Ezequiel Cano" />
