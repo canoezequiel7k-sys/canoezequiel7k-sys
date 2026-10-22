@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@exek7k" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@exek7k" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@exek7k" />
   </a>
   <a href="https://www.linkedin.com/in/canoezequiel7k-sys/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -135,11 +135,6 @@ Aprendo construyendo proyectos, explorando nuevas tecnologías y mejorando cada 
   <img src="https://raw.githubusercontent.com/canoezequiel7k-sys/canoezequiel7k-sys/output/github-contribution-grid-snake.svg" alt="Animación de la serpiente recorriendo mi gráfico de contribuciones de GitHub" />
 </p>
 
-## 🤝 Contacto
-
-<p>
-  <a href="mailto:canoezequiel73@gmail.com">canoezequiel73@gmail.com</a>
-</p>
 
 <p>
   <img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Animación de programación" width="180" />
