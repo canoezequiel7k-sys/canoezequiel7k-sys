@@ -1,11 +1,27 @@
-<h1 align="center">Hola, soy Ezequiel Cano 👋</h1>
-
-<h3 align="center">Técnico en Programación · Estudiante de Sistemas · Desarrollador Mobile & Frontend</h3>
+<h1 align="center">Ezequiel Ariel Cano</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/canoezequiel7k-sys/">LinkedIn</a>
-  · <a href="https://www.instagram.com/canoezequiel7k/">Instagram</a>
-  · <a href="https://x.com/canoezequiel7k">X</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3600&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=Bienvenidos+a+mi+perfil+de+GitHub!;Soy+canoezequiel7k-sys.;T%C3%A9cnico+en+Programaci%C3%B3n;Estudiante+de+Licenciatura+en+Sistemas;Enfocado+en+desarrollo+mobile+%F0%9F%93%B1;Soy+de+Argentina+-+Buenos+Aires." alt="Texto animado: presentación, formación y enfoque profesional" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@exek7k" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.linkedin.com/in/canoezequiel7k-sys/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/canoezequiel7k/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/canoezequiel7k" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:canoezequiel73@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 <img align="right" src="./devcard.png" width="280" alt="Tarjeta de presentación de Ezequiel Cano" />
@@ -112,6 +128,12 @@ Aplicación de escritorio que detecta cuando los ojos permanecen cerrados, activ
 ## 🌱 Mi camino de aprendizaje
 
 Aprendo construyendo proyectos, explorando nuevas tecnologías y mejorando cada iteración a partir del feedback. Me interesa fortalecer mis habilidades de desarrollo móvil y frontend, asumir nuevos desafíos y aportar a equipos que valoren la colaboración, la responsabilidad y la calidad del software.
+
+## 🐍 Mi actividad en GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/canoezequiel7k-sys/canoezequiel7k-sys/output/github-contribution-grid-snake.svg" alt="Animación de la serpiente recorriendo mi gráfico de contribuciones de GitHub" />
+</p>
 
 ## 🤝 Contacto
 
