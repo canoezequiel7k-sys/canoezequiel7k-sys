@@ -1,4 +1,4 @@
-<h1 align="center">Ezequiel Ariel Cano</h1>
+<h1 align="center">Ezequiel Cano</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
