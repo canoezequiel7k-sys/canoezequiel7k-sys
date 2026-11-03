@@ -95,6 +95,18 @@ Aplicación móvil para registrar estados de ánimo, escribir reflexiones y cons
   <img src="https://raw.githubusercontent.com/canoezequiel7k-sys/Mimun/main/Media/AnalyticsScreenPage1_v1.1.0.png" width="28%" alt="Estadísticas en Mimun" />
 </p>
 
+### 📦 [GesCan — Sistema de Gestión de Inventario](https://github.com/canoezequiel7k-sys/GesCano-Inventory)
+
+Aplicación de escritorio educativa para la gestión de inventario de un comercio: catálogo de productos, stock, consultas por PLU/SKU, imágenes y permisos por rol. La app funciona y se puede probar, aunque todavía tiene módulos en desarrollo.
+
+**Tecnologías:** C#, .NET 10, Windows Forms, Entity Framework Core, SQLite, Clean Architecture y DDD.
+
+<p align="center">
+  <a href="https://github.com/canoezequiel7k-sys/GesCano-Inventory/blob/master/assets/inicio.png"><img src="https://raw.githubusercontent.com/canoezequiel7k-sys/GesCano-Inventory/master/assets/inicio.png" width="32%" alt="Panel de inicio de GesCan" /></a>
+  <a href="https://github.com/canoezequiel7k-sys/GesCano-Inventory/blob/master/assets/productos.png"><img src="https://raw.githubusercontent.com/canoezequiel7k-sys/GesCano-Inventory/master/assets/productos.png" width="32%" alt="Catálogo de productos en GesCan" /></a>
+  <a href="https://github.com/canoezequiel7k-sys/GesCano-Inventory/blob/master/assets/consultas.png"><img src="https://raw.githubusercontent.com/canoezequiel7k-sys/GesCano-Inventory/master/assets/consultas.png" width="32%" alt="Consulta de productos por PLU/SKU en GesCan" /></a>
+</p>
+
 ### ☕ [Somphie Zúrich — Gestión de cafetería](https://github.com/canoezequiel7k-sys/SomphieZurich)
 
 Proyecto en desarrollo para gestionar la experiencia de una cafetería: pedidos mediante QR, herramientas para el personal y un panel administrativo. Actualmente cuenta con especificación funcional y bases técnicas; la API de negocio y las aplicaciones cliente todavía están pendientes de implementación.
