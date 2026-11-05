@@ -107,6 +107,18 @@ Aplicación de escritorio educativa para la gestión de inventario de un comerci
   <a href="https://github.com/canoezequiel7k-sys/GesCano-Inventory/blob/master/assets/consultas.png"><img src="https://raw.githubusercontent.com/canoezequiel7k-sys/GesCano-Inventory/master/assets/consultas.png" width="32%" alt="Consulta de productos por PLU/SKU en GesCan" /></a>
 </p>
 
+### 📺 [CanoTV — Launcher para TV Box](https://github.com/canoezequiel7k-sys/CanoTV)
+
+Launcher Android para TV Box que organiza tus apps en Inicio, Favoritos y Todas las apps, con navegación por control remoto y opciones de personalización.
+
+**Tecnologías:** Kotlin, Android SDK, AndroidX y Material Components.
+
+<p align="center">
+  <a href="proyects/CanoTV/home.jpg"><img src="proyects/CanoTV/home.jpg" width="32%" alt="Pantalla de inicio de CanoTV" /></a>
+  <a href="proyects/CanoTV/all_apps.jpg"><img src="proyects/CanoTV/all_apps.jpg" width="32%" alt="Listado de aplicaciones en CanoTV" /></a>
+  <a href="proyects/CanoTV/setting.jpg"><img src="proyects/CanoTV/setting.jpg" width="32%" alt="Configuración de CanoTV" /></a>
+</p>
+
 ### ☕ [Somphie Zúrich — Gestión de cafetería](https://github.com/canoezequiel7k-sys/SomphieZurich)
 
 Proyecto en desarrollo para gestionar la experiencia de una cafetería: pedidos mediante QR, herramientas para el personal y un panel administrativo. Actualmente cuenta con especificación funcional y bases técnicas; la API de negocio y las aplicaciones cliente todavía están pendientes de implementación.
