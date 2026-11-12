@@ -1,5 +1,4 @@
-<h1 align="center">Ezequiel Cano</h1>
-
+<h1 align="center">Ezequiel Ariel Cano</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -7,8 +6,8 @@
   </a>
 </p>
 
-
 <p align="center">
+  
   <a href="https://www.youtube.com/@exek7k" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
