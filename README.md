@@ -1,13 +1,11 @@
-<h1 align="center">Ezequiel Ariel Cano</h1>
+<h1 align="center">Ezequiel Cano</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3600&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=Bienvenidos+a+mi+perfil+de+GitHub!;Soy+canoezequiel7k-sys.;T%C3%A9cnico+en+Programaci%C3%B3n;Estudiante+de+Licenciatura+en+Sistemas;Enfocado+en+desarrollo+mobile+%F0%9F%93%B1;Soy+de+Argentina+-+Buenos+Aires." alt="Texto animado: presentación, formación y enfoque profesional" />
   </a>
 </p>
-
 <p align="center">
-  
   <a href="https://www.youtube.com/@exek7k" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
