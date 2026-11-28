@@ -30,7 +30,7 @@
 
 <img align="right" src="./devcard.png" width="280" alt="Tarjeta de presentación de Ezequiel Cano" />
 
-## Desarrollador Mobile y frontend
+## Dev Mobile y frontend
 <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Animación de programación" width="150" />
 
 Me gusta diseñar y desarrollar productos digitales, especialmente **aplicaciones móviles**. Trabajo en proyectos full stack y mi mayor interés está en el **frontend**, donde puedo combinar programación, diseño y experiencia de usuario.
